@@ -1,0 +1,14 @@
+# Python dočasné súbory
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuálne prostredie
+venv/
+.env/
+
+# Konfiguračné dáta s filmami
+config.json
+
+# Ak by sa do repozitára omylom dostala zložka s filmami
+/Data/
