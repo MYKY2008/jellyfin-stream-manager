@@ -30,6 +30,6 @@ Vzhľadom na to, ako fungujú interné webové prehrávače, natívny prehráva�
    python3 proxy_server.py
    ```
 
-5. Otvorte prehliadač a zadajte `http://<VASA_IP>:5000`. Pridajte filmy/seriály a kliknite na **Indexovať**.
+5. Otvorte prehliadač a zadajte `http://<VASA_IP>:5000`. Pridajte filmy/seriály a kliknite na **Indexovať** (Ak sa Indexácia nevykoná sama).
 
 6. Pridajte v Jellyfine zložku (nastavenú v `BASE_PATH`) ako novú knižnicu a dajte ju preskenovať.
