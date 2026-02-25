@@ -11,10 +11,10 @@ app = Flask(__name__)
 
 # ==================== KONFIGURÁCIA PRE UŽÍVATEĽA ====================
 BASE_PATH = "/Data/Movies_Streams"        # Cesta k vašim médiám
-PROXY_IP = "192.168.0.99"                  # IP adresa tohto servera
-PROXY_PORT = "5000"                        # Port tohto servera
-JELLYFIN_URL = "http://192.168.0.99:8096"  # URL vášho Jellyfinu
-JELLYFIN_API_KEY = "c9dae3d04a8a4b21b8b228929ec528ff"      # Dashboard -> API Keys
+PROXY_IP = "example.com"                  # IP adresa tohto servera
+PROXY_PORT = "5000"                        # Port tohto servera (default 5000)
+JELLYFIN_URL = "http://example.com"  # URL vášho Jellyfinu
+JELLYFIN_API_KEY = "API"      # Dashboard -> API Keys
 JELLYFIN_LIBRARY_NAME = "Streams"          # Presný názov knižnice v JF
 # =====================================================================
 
