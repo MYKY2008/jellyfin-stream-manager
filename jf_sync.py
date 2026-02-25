@@ -8,8 +8,8 @@ import argparse
 
 # ==================== KONFIGURÁCIA PRE UŽÍVATEĽA ====================
 BASE_PATH = "/Data/Movies_Streams"
-PROXY_IP = "192.168.0.99"
-PROXY_PORT = "5000"
+PROXY_IP = "example.com"
+PROXY_PORT = "5000" # deafult 5000
 # =====================================================================
 
 CONFIG_FILE = os.path.join(BASE_PATH, "config.json")
