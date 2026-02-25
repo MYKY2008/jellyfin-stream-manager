@@ -35,7 +35,7 @@ Vzhľadom na to, ako fungujú interné webové prehrávače, natívny prehráva�
 6. Pridajte v Jellyfine zložku (nastavenú v `BASE_PATH`) ako novú knižnicu a dajte ju preskenovať.
 
 ## 🛑 Upozornenie (Disclaimer)
-Tento projekt bol vytvorený a je poskytovaný **výhradne na edukačné a študijné účely**. Slúži ako ukážka automatizácie a práce s webovým obsahom prostredníctvom jazyka Python. Autor tohto softvéru **nenenesie absolútne žiadnu zodpovednosť** za to, aký obsah používatelia pomocou tohto nástroja konzumujú, spracovávajú alebo šíria. Zodpovednosť za dodržiavanie autorských práv a legálnosť prehrávaného obsahu vo vašej krajine nesiete výhradne vy.
+Tento projekt bol vytvorený a je poskytovaný **výhradne na edukačné a študijné účely**. Slúži ako ukážka automatizácie a práce s webovým obsahom prostredníctvom jazyka Python. Autor tohto softvéru **nenenesie absolútne žiadnu zodpovednosť** za to, aký obsah používatelia pomocou tohto nástroja konzumujú, spracovávajú alebo šíria. Zodpovednosť za dodržiavanie autorských práv a legálnosť prehrávaného obsahu vo vašej krajine nesiete výhradne **vy**.
 
 ## 📄 Licencia
 Tento projekt je vydaný pod **MIT licenciou**. 
