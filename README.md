@@ -1,4 +1,5 @@
 # Jellyfin Stream Manager
+(Stará verzia bez API funkcie)
 
 Nástroj na automatickú synchronizáciu a prehrávanie webových streamov (napríklad zo stránok ako *mrkaj.si*) priamo v [Jellyfin](https://jellyfin.org/) mediálnom serveri pomocou `.strm` súborov. 
 
