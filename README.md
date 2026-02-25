@@ -1,6 +1,6 @@
 # Jellyfin Stream Manager
 
-Nástroj na automatickú synchronizáciu a prehrávanie webových streamov (napríklad zo stránok ako *mrkaj.si*) priamo v[Jellyfin](https://jellyfin.org/) mediálnom serveri pomocou `.strm` súborov. 
+Nástroj na automatickú synchronizáciu a prehrávanie webových streamov (napríklad zo stránok ako *mrkaj.si*) priamo v [Jellyfin](https://jellyfin.org/) mediálnom serveri pomocou `.strm` súborov. 
 
 Skladá sa z dvoch hlavných častí:
 1. **Proxy Server a Web UI (`proxy_server.py`)** - Beží na pozadí, poskytuje webové rozhranie na pridávanie obsahu a dynamicky získava aktuálne `.m3u8` streamovacie linky pomocou bezhlavého prehliadača.
