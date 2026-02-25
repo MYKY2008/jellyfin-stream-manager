@@ -22,3 +22,14 @@ Vzhľadom na to, ako fungujú interné webové prehrávače, natívny prehráva�
    ```bash
    pip install -r requirements.txt
    playwright install chromium
+   
+3. **Konfigurácia:** Otvorte súbory `jf_sync.py` a `proxy_server.py` a upravte sekciu `--- KONFIGURÁCIA ---` (nastavte správnu IP adresu, port a cestu k zložkám s filmami).
+
+4. Spustite Proxy server (ideálne ako službu na pozadí):
+   ```bash
+   python3 proxy_server.py
+   ```
+
+5. Otvorte prehliadač a zadajte `http://<VASA_IP>:5000`. Pridajte filmy/seriály a kliknite na **Indexovať**.
+
+6. Pridajte v Jellyfine zložku (nastavenú v `BASE_PATH`) ako novú knižnicu a dajte ju preskenovať.
